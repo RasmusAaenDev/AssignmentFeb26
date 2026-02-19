@@ -1,0 +1,7 @@
+{
+    "CRS.ObjectNamePrefix": "RAA ",
+    "CRS.RemovePrefixFromFilename": true,
+    "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectType>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectType>.al",
+    "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectType>.al"
+}
